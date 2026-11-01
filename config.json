@@ -1,0 +1,15 @@
+{
+  "site_title": "Practical Picks & Field Notes",
+  "site_description": "Just a personal log of software deals, durable everyday gear, and simple spreadsheets I actually use to stop wasting money.",
+  "target_market": "US / UK / Global (USD)",
+  "affiliate_links": {
+    "primary_usd_affiliate": "https://frostbite1787.gumroad.com/l/fpbvvo",
+    "amazon_us_store": "https://frostbite1787.gumroad.com/l/fpbvvo",
+    "gumroad_usd_store": "https://frostbite1787.gumroad.com/l/fpbvvo"
+  },
+  "voice_settings": {
+    "voice": "en-US-AndrewNeural",
+    "rate": "+5%"
+  },
+  "post_count_per_run": 3
+}
