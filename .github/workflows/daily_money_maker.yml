@@ -1,0 +1,56 @@
+name: Daily AI Passive Income Matrix
+
+on:
+  schedule:
+    # 每天台灣時間早上 8:00 與晚上 20:00 自動執行 (UTC 0:00 與 12:00)
+    - cron: '0 0,12 * * *'
+  workflow_dispatch: # 允許在 GitHub 網頁上手動點擊「Run workflow」立即測試
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+jobs:
+  run-income-pipeline:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 1. 檢出專案程式碼
+        uses: actions/checkout@v4
+
+      - name: 2. 安裝 Python 環境与 FFmpeg (短影音合成用)
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: 'pip'
+
+      - name: 3. 安裝系統影音工具 FFmpeg
+        run: sudo apt-get update && sudo apt-get install -y ffmpeg
+
+      - name: 4. 安裝 Python 套件
+        run: pip install -r requirements.txt
+
+      - name: 5. 執行四合一 AI 自動賺錢流水線
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DISCORD_WEBHOOK_URL: ${{ secrets.DISCORD_WEBHOOK_URL }}
+          AFFILIATE_SHOPEE_URL: ${{ secrets.AFFILIATE_SHOPEE_URL }}
+          GUMROAD_PRODUCT_URL: ${{ secrets.GUMROAD_PRODUCT_URL }}
+        run: python main_pipeline.py
+
+      - name: 6. 自動更新情報網站與數位商品庫 (GitHub Pages)
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add docs/ products/ output_shorts/
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update: 每日好康情報、部落格文章、短影音與數位商品更新" && git push)
+
+      - name: 7. 打包今日生成的無臉短影音素材供隨時下載
+        uses: actions/upload-artifact@v4
+        with:
+          name: daily-shorts-package
+          path: output_shorts/
+          retention-days: 7
+
