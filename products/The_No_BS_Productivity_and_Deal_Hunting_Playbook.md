@@ -13,17 +13,8 @@ Whenever I see a piece of gear, software, or game on sale:
 
 ---
 
-## 2. Three Free Tools I Check Before Buying Anything Online
+## 2. Recent Deal Notes & Price Checks (Updated 2026-11-02)
 
-- **CamelCamelCamel / Keepa**: Never trust an Amazon "Limited Time Deal" badge until you check the 6-month price graph. Half the time, they raised the price last week just to mark it down today.
-- **IsThereAnyDeal**: If you buy PC games on Steam at full price, you're overpaying. Check authorized key sellers (Humble, Fanatical, GreenManGaming) first.
-- **The 5-Minute Subscription Audit**: Open your bank statement once a quarter, search for recurring charges between $4.99 and $19.99, and cancel anything you haven't opened in the last 14 days.
-
----
-
-## 3. How to Use the Included CSV Tracker
-
-1. Open `2026_Minimalist_Budget_and_Subscription_Tracker_US.csv` in Google Sheets, Excel, or Apple Numbers.
-2. List every recurring monthly or annual charge you have right now.
-3. Highlight just **two** items to cancel or downgrade this week. That alone covers the cost of this template ten times over.
-
+- **Quick heads-up on this price drop: [Steam] IL-2 Sturmovik: Battle of Stalingrad (85**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
+- **Tested a few options for [Steam] Owlboy ($1.99 / 90% off) — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
+- **Small weekend win: [Steam] Europe Heatwave Simulator ( 30% off)**: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
