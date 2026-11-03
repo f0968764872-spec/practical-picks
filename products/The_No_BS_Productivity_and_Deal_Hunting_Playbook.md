@@ -13,8 +13,8 @@ Whenever I see a piece of gear, software, or game on sale:
 
 ---
 
-## 2. Recent Deal Notes & Price Checks (Updated 2026-11-02)
+## 2. Recent Deal Notes & Price Checks (Updated 2026-11-03)
 
-- **Quick heads-up on this price drop: [EtailMarket] Among the Sleep - Enhanced Edition**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
-- **Tested a few options for [Fanatical] Sonic Racing: CrossWorlds ($14.79/63 — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
-- **Small weekend win: [Steam] IL-2 Sturmovik: Battle of Stalingrad (85**: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
+- **Quick heads-up on this price drop: [Steam] Brazilian Drug Dealer Before 4: Demons F**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
+- **Tested a few options for [Humble] Crimes and Curiosity Bundle by S2 Games — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
+- **Small weekend win: [Steam] Capy Farm ($3.99 / 20% off)**: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
