@@ -13,8 +13,8 @@ Whenever I see a piece of gear, software, or game on sale:
 
 ---
 
-## 2. Recent Deal Notes & Price Checks (Updated 2026-11-10)
+## 2. Recent Deal Notes & Price Checks (Updated 2026-11-11)
 
-- **Quick heads-up on this price drop: [Steam] SoulTrigger ($7.49 / 25% off)**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
-- **Tested a few options for [IndieGala] Stellar Blade (33% OFF), Stellar Bla — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
-- **Small weekend win: [Steam] Goblin Platformer Pack ($2.41/-73% on 3 **: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
+- **Quick heads-up on this price drop: [Steam] Wizardry 45th Anniversary Sale (Wizardry**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
+- **Tested a few options for [EtailMarket] No Man's Sky (30% off /€ 41.43) — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
+- **Small weekend win: [Humble] 11.11 Singles Day - Celebration of Chin**: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
