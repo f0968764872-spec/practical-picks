@@ -13,8 +13,8 @@ Whenever I see a piece of gear, software, or game on sale:
 
 ---
 
-## 2. Recent Deal Notes & Price Checks (Updated 2026-11-27)
+## 2. Recent Deal Notes & Price Checks (Updated 2026-11-28)
 
-- **Quick heads-up on this price drop: Credit card skimming scripts using WebRTC found **: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
-- **Tested a few options for Show HN: bouncemarket – a live prediction market — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
-- **Small weekend win: US Air Force's cloud computing platform hacked**: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
+- **Quick heads-up on this price drop: Atari Homebrew Awards Cancelled**: I've had this bookmarked for a couple months waiting for a decent discount. Checked the price history this morning and it's finally down to a reasonable number. Probably not worth it at full retail, but at this price it's a solid pickup if you actually need one.
+- **Tested a few options for Woman evicted after landlord's AI assistant told — here's what stuck**: Spent way too much time last weekend comparing different setups on Reddit before settling on this one. No flashy gimmicks or annoying monthly subscriptions—it just works the way it's supposed to.
+- **Small weekend win: Google's DeepCrossAttention achieves comparable **: With everything getting more expensive lately, I've been doing a strict audit on random everyday purchases. This is one of the few under-$20 pickups from the last few months that genuinely earned its spot on my desk.
